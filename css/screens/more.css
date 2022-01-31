@@ -28,6 +28,9 @@
   border-radius: 10px;
   margin-bottom: 10px;
 }
+.more-suggestions__icon span {
+  text-align: center;
+}
 .empty {
   opacity: 0;
 }
