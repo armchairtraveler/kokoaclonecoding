@@ -8,22 +8,26 @@
   margin-top: 20px;
   border-top: var(--main-border);
   padding-top: 40px;
+  margin-bottom: 100px;
 }
 .more-suggestions__title {
   margin-bottom: 30px;
 }
 .more-suggestions__icons {
   display: flex;
+  justify-content: space-between;
 }
 .more-suggestions__icon {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 30px;
 }
 .more-suggestions__icon img {
   width: 60px;
   height: 60px;
   border-radius: 10px;
   margin-bottom: 10px;
+}
+.empty {
+  opacity: 0;
 }
