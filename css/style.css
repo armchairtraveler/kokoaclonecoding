@@ -19,10 +19,6 @@
 @import "screens/settings.css";
 @import "screens/chat.css";
 
-html {
-  width: 100vw;
-  height: 200vh;
-}
 body {
   color: #2e363e;
   font-family: Arial, Helvetica, sans-serif;
