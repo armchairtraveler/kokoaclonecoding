@@ -13,12 +13,13 @@
   font-size: 35px;
 }
 .icon-row__icon span {
+  text-align: center;
   margin-top: 15px;
 }
 .icon__update {
   display: block;
   position: absolute;
-  right: 20px;
+  right: 15px;
   top: -15px;
   width: 6px;
   height: 6px;
